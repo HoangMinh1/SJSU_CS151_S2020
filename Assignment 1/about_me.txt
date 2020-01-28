@@ -1,0 +1,11 @@
+Registered name: Hoang Nguyen
+Prefered name: same as above
+Student ID: 012666524
+Major: Computer Science
+prefered email: hoang.m.nguyen02@sjsu.edu
+student status: undergraduate
+graduating senior: no
+repeating? : no
+CS courses: CS 146
+additional information: I love learning new things
+Topics that I am interested: future application of technology, AI, video game design
