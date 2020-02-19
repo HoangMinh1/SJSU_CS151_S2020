@@ -1,0 +1,7 @@
+Integer is a class that have many methods to support integer type
+such as toHexString() and to OctalString.Class Integer has more
+benefit if programmers since it have more supporting methods,
+but using it will consume a lot of memory.
+
+int is a primitive type that does not have many support methods,
+but it helps save more memory in compare with class Integer.
